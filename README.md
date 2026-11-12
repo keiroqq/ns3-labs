@@ -6,11 +6,11 @@
 
 <img width="549" height="102" alt="изображение" src="https://github.com/user-attachments/assets/b902e43a-3ba0-4b35-b7ae-18115dbd3d9c" />
 
-client ping request #1 RTT = 2.00369 - 2 = 0.00369s = 3.69ms 
-
 Задание 1.2
 
 <img width="791" height="341" alt="изображение" src="https://github.com/user-attachments/assets/155a3372-8c34-4fc4-88d2-5633e2c60ef1" />
+
+client ping request #1 RTT = 2.00369 - 2 = 0.00369s = 3.69ms 
 
 Лаба 2 
 
